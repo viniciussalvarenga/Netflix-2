@@ -121,6 +121,13 @@ header nav a{
     margin-right: 5px;
 }
 
-.movie-box{
+
+/* Owl-Carousel*/
+
+
+main .movie-box{
+    width: 100%;
+    height: 100%;
     margin-top: 10px;
+    display:block;
 }
