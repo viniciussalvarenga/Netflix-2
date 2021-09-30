@@ -3,7 +3,9 @@
 <h2> O que é? 🤔 </h2>
 
 Este site foi criado para ser uma cópia do gigante site de entretenimento Netflix,
-apenas como um fator de aprendizagem e curiosidade. 
+apenas como um fator de aprendizagem e curiosidade. Contando com uma listagem dos
+filmes como um carrossel de imagens, e com responsividade, de acordo com a alteração 
+do tamanho dos componentes da página variando de modelo de celular ou resolução.
 
 <br>
 
