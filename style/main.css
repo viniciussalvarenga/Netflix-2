@@ -1,0 +1,126 @@
+:root{
+    --vermelho:#E50914;
+    --preto: #141414;
+    --botão1: rgba(255, 255, 255, 0.808);
+    --botão2: rgba(56, 56, 56, 0.808);
+
+
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--preto);
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    min-width: 600px;
+}
+
+header .container{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+}
+
+header .logo{
+    color: var(--vermelho);
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    font-size: 35px;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+header nav a:hover{
+    color:#afff;
+   
+}
+
+/* filme principal */
+
+.filme-principal{
+    font-size:16px;
+    background: linear-gradient(to left, rgba(0,0,0,.5),rgba(0,0,0,1)), url('/img/capa-vikings.jpg');
+    background-size: cover;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    object-fit: cover;
+    height: 600px;
+  
+}
+
+.filme-principal .container{
+    width: 70%;
+    margin-left: 20px;
+    height: 50;
+}
+
+.filme-principal .description{
+    margin-bottom: 80px;
+    margin-left: 10px;
+}
+
+main .title{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+/* Botões */
+
+header nav a{
+    font-size: 14px;
+    font-family:sans-serif;
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+    margin-right: 30px;
+}
+
+.group-button{
+    padding:15px 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:none;
+    border-radius: 5px;
+
+}
+
+.button{
+    background-color: var(--botão1);
+    color: black;
+}
+
+.button2{
+    background-color: var(--botão2);
+    color: white;
+}
+
+.button:hover{
+    background-color:rgba(255, 255, 255, 0.65);
+    transition: .3s;
+}
+
+.button2:hover{
+    background-color:rgba(56, 56, 56, 0.65);
+    transition: .3s;
+}
+
+.group-button i{
+    margin-right: 5px;
+}
+
+.movie-box{
+    margin-top: 10px;
+}

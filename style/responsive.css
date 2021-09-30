@@ -1,0 +1,17 @@
+@media screen and (max-width:658px) {
+    header .container{
+        display:flex;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    .filme-principal{
+        height:auto;
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .filme-principal .description{
+        width: 50%;
+    }
+}
