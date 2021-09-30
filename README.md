@@ -67,4 +67,4 @@ do tamanho dos componentes da página variando de modelo de celular ou resoluç�
 Após isso, é só entrar na porta do servidor, normalmente 127.0.0.1:5500.
 
 
-
+### Ps.: As imagens foram retiradas do site themoviedb.org
