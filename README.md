@@ -7,7 +7,7 @@ apenas como um fator de aprendizagem e curiosidade.
 
 <br>
 
-<h2> Print do site </h2>
+<h2> Print do site 📸</h2>
 <img src="https://i.ibb.co/fnTyHZ8/Captura-de-tela-2021-09-30-114733.png" alt="Captura-de-tela-2021-09-30-114733" border="0">
 
 <br>
@@ -57,5 +57,13 @@ apenas como um fator de aprendizagem e curiosidade.
 
 # Execute o servidor ou use um plugin para criar o servidor.
 ```
-Após isso, é só entrar na porta do servidor, normalmente 127.0.0.1:5500
+Após isso, é só entrar na porta do servidor, normalmente 127.0.0.1:5500.
+
+<h2> <a href="github.com/OwlCarousel2/OwlCarousel2.git"><img height=35em width=35em src="https://i.ibb.co/6yZF547/18146764.png" border="0"></a> Github da OwlCarousel:  </h2>
+
+```bash
+
+github.com/OwlCarousel2/OwlCarousel2.git
+
+```
 
