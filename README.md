@@ -35,7 +35,16 @@ do tamanho dos componentes da página variando de modelo de celular ou resoluç�
       height="100"
     />
   </a>
-  <a
+ 
+  
+</p>
+
+<br>
+
+#### **Back-end** 
+<p align="left">
+<a href="https://github.com/OwlCarousel2/OwlCarousel2.git"><img height=100em width=100em src="https://i.ibb.co/6yZF547/18146764.png" alt="OwlCarousel" border="0"></a>
+   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   >
     <img
@@ -45,14 +54,6 @@ do tamanho dos componentes da página variando de modelo de celular ou resoluç�
       height="100"
     />
   </a>
-  
-</p>
-
-<br>
-
-#### **Back-end** 
-<p align="left">
-<a href="https://github.com/OwlCarousel2/OwlCarousel2.git"><img height=100em width=100em src="https://i.ibb.co/6yZF547/18146764.png" alt="OwlCarousel" border="0"></a> 
 <br>
   
 <h2> Wow! Como posso testar na minha máquina? 😍</h2>
